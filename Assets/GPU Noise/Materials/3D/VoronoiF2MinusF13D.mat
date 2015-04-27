@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: VoronoiF2MinusF13D
+  m_Shader: {fileID: 4800000, guid: 4a45df942144bcd4dac329f493b11198, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs: {}
+    m_Floats:
+      data:
+        first:
+          name: time
+        second: 56.7853813
+      data:
+        first:
+          name: noiseScale
+        second: 20
+    m_Colors:
+      data:
+        first:
+          name: lowColor
+        second: {r: 1, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: highColor
+        second: {r: 0, g: 1, b: 0, a: 1}
